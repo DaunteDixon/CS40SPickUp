@@ -5,13 +5,13 @@ public class App {
         //Testing isPrime
         MathHelper.isPrime(17);
         MathHelper.isPrime(24);    
-        MathHelper.isPrime(6);
+        MathHelper.isPrime(3);
         
         //Test minMax
-      
+        MathHelper.minMax();
 
         //Test isPalindrome
-
+        StrHelper.isPalindrome("weenus");
   
     }
 }

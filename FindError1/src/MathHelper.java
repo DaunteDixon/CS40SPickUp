@@ -1,5 +1,6 @@
+import java.util.*;
 public class MathHelper {
-    
+
     /**
      * This method takes in user input and determines 
      * the minimum and maximum numbers
